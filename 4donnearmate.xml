@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/dc.xsd">
+
+  <dc:identifier>ER-FOTO-0002</dc:identifier>
+  <dc:title>4 donne armate</dc:title>
+  <dc:type>fotografia</dc:type>
+  <dc:date>1943/1945</dc:date>
+  <dcterms:dateAccepted>1988-09-28</dcterms:dateAccepted>
+  <dc:coverage>Bologna, Emilia-Romagna, Italia</dc:coverage>
+  <dcterms:spatial xsi:type="dcterms:URI">https://www.geonames.org/3181928/bologna.html</dcterms:spatial>
+  <!-- Nota: la geolocalizzazione è attribuita a Bologna in quanto
+       sede del conservatore, ma il luogo originale di scatto è ignoto. -->
+  <dc:subject>Resistenza, donne partigiane</dc:subject>
+  <dc:contributor>Adelia Casari (nome di battaglia: Emma, Nigrén) — donatrice del documento</dc:contributor>
+  <dcterms:references xsi:type="dcterms:URI">https://www.anpi.it/biografia/adelia-casari</dcterms:references>
+  <dcterms:references xsi:type="dcterms:URI">https://www.wikidata.org/wiki/Q50840334</dcterms:references>
+  <dcterms:references xsi:type="dcterms:URI">https://it.wikipedia.org/wiki/Adelia_Casari</dcterms:references>
+  <dcterms:references xsi:type="dcterms:URI">https://www.storiaememoriadibologna.it/archivio/persone/casari-adelia-dettoa-emma</dcterms:references>
+  <dc:description>La fotografia raffigura 4 donne armate non identificate, ma la nota manoscritta sul retro —'Dono di Emma. 28/IX/88' — attribuisce la trasmissione del documento a Emma Casari, che lo dona all'Istituto Parri nel 1988. Emma non è probabilmente ritratta nella foto, ma ne è la custode e la mediatrice: il documento arriva all'archivio attraverso la sua memoria e la sua scelta. Pertanto, qui la prospettiva femminile è quella della donatrice, non del fotografo originale (ignoto). Le 4 donne ritratte rimangono anonime nonostante l'armamento visibile, che lascia supporre un ruolo attivo e militante nella resistenza.</dc:description>
+  <dc:source>Istituto Storico Parri, Fondo Emma Casari, collocazione A.8.5. Scat.3 C.75</dc:source>
+  <dcterms:extent>23 x 17 cm</dcterms:extent>
+  <dcterms:format>stampa fotografica, bianco e nero, condizione buona</dcterms:format>
+  <dc:format>image/jpeg (riproduzione digitale)</dc:format>
+  <dc:rightsmanagement>Istituto Storico Parri Emilia-Romagna — uso consentito per fini didattici e di ricerca</dc:rightsmanagement>
+  <dc:language>it</dc:language>
+
+</metadata>
