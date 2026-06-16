@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<metadata
+<fotografia
   xmlns:dc="http://purl.org/dc/elements/1.1/"
   xmlns:dcterms="http://purl.org/dc/terms/"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/dc.xsd">
-
+  
   <dc:identifier>ER-FOTO-0002</dc:identifier>
   <dc:title>4 donne armate</dc:title>
   <dc:type>fotografia</dc:type>
@@ -29,4 +29,4 @@
   <dc:rightsmanagement>Istituto Storico Parri Emilia-Romagna — uso consentito per fini didattici e di ricerca</dc:rightsmanagement>
   <dc:language>it</dc:language>
 
-</metadata>
+</fotografia>
